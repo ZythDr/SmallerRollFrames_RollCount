@@ -1,0 +1,11 @@
+## SmallerRollFrames_RollCount.toc
+## Title: SmallerRollFrames_RollCount
+## Notes: Adds roll counters to SmallRollFrames
+## Interface: 11200
+## Author: Peachoo @ Nordanaar - Turtle WoW
+## Version: 1.0
+## Dependencies: SmallerRollFrames
+## SavedVariables: SRF_RC_Settings
+
+SmallerRollFrames_RollCount.lua
+SmallerRollFrames_RollCount.xml
